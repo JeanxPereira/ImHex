@@ -748,6 +748,7 @@
         "hex.builtin.view.hex_editor.copy.go": "Go Array",
         "hex.builtin.view.hex_editor.copy.hex_view": "",
         "hex.builtin.view.hex_editor.copy.html": "HTML",
+        "hex.builtin.view.hex_editor.copy.xml": "XML",
         "hex.builtin.view.hex_editor.copy.java": "Java Array",
         "hex.builtin.view.hex_editor.copy.js": "JavaScript Array",
         "hex.builtin.view.hex_editor.copy.lua": "Lua Array",
